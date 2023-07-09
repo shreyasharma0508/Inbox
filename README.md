@@ -1,7 +1,7 @@
-## Personal Inbox Application in Java
+# Personal Inbox Application in Java
 This repository contains a simple personal inbox application created using Java. The application enables a user to log in using a username, view emails, and send new emails.
 
-# File Descriptions
+## File Descriptions
 Email.java: Contains the Email class, which models an email message. Each email has a recipient (to), a sender (from), a subject, a content, a time of sending, and a priority level.
 
 EmailPage.java: Defines the main email page UI. It displays the list of received emails for the logged-in user, sorted by their priority. It also provides a UI for composing and sending a new email message.
