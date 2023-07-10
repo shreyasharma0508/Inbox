@@ -43,7 +43,7 @@ public class EmailPage extends JFrame{
 				
 
 		
-		setTitle("Email System - Shreya Sharma - 22077888");
+		setTitle("Shreya's Email System");
 		setSize(FRAME_WIDTH,FRAME_HEIGHT);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		MenuBar();
